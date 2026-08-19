@@ -18,4 +18,7 @@ Here is my implementation of a program in Sprite and an explanation on how it wo
 
 https://github.com/user-attachments/assets/1588b3bb-574a-406e-bc51-d105f49e07b1
 
+Module 2: Scratch Sprites!
+
+
 
