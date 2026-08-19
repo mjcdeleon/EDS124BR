@@ -1,3 +1,6 @@
+
+
+
 # EDS124BR
 A repo to present all my submissions for EDS124BR
 
@@ -20,5 +23,6 @@ https://github.com/user-attachments/assets/1588b3bb-574a-406e-bc51-d105f49e07b1
 
 Module 2: Scratch Sprites!
 
+https://github.com/user-attachments/assets/d19b1d25-a7d2-48b9-8df0-71a8b61cab3f
 
 
